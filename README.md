@@ -32,15 +32,18 @@ CLIENT SIDE
 ![image](https://github.com/user-attachments/assets/e1f0a2b9-18b6-4271-9446-a4943ecedab0)
 ![image](https://github.com/user-attachments/assets/53301c9a-ac5b-4c86-a1ca-492d666830ab)
 ![image](https://github.com/user-attachments/assets/75e609bd-e9b2-4e96-96fc-84c408bb75e9)
+
 The page features clear options for users to get started as a salon or barber or to book an appointment as a client.
 
 ![image](https://github.com/user-attachments/assets/d3f5a13b-4678-4c84-ad8d-8b07fbd75403)
 ![image](https://github.com/user-attachments/assets/ab649b80-46f6-485e-92a5-ea8c2b9e634d)
+
 This page is the client registration screen for the Appointment Scheduler platform, users can create a client account by entering their name, email, and password, and confirming their password.
 
 
 ![image](https://github.com/user-attachments/assets/a1271f11-fc3e-4423-bd39-22c8169516b6)
 ![image](https://github.com/user-attachments/assets/5dfbdcbc-d924-4594-9b6d-df47999427a4)
+
 After registering this will appear, the verification link has been sent to email.
 
 
