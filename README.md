@@ -134,6 +134,130 @@ The user must provide the correct credentials in order to update the password an
 
 
 
+SERVICE PROVIDER SIDE
+
+![image](https://github.com/user-attachments/assets/5e054741-d693-402b-bcde-20c7dd9ee0a7)
+![image](https://github.com/user-attachments/assets/f71ea95d-3ffc-4c12-8545-05bc01680154)
+
+Clients can log in by entering their email address and password, with an option to stay signed in using the "Remember me" checkbox. If they forget their password, there is a "Forgot your password?" link to help them reset it. There are clear buttons to register as a salon/barber.
+
+
+
+![image](https://github.com/user-attachments/assets/9ddc00fd-f394-4403-abaa-49579514665f)
+![image](https://github.com/user-attachments/assets/4e9edfdc-c2fb-46d9-84f0-d87b27989476)
+![image](https://github.com/user-attachments/assets/366c8cb9-d6d4-42b7-86c1-9ad6ef35c4d7)
+![image](https://github.com/user-attachments/assets/f624749a-b0e1-4478-9f44-3a19bc410535)
+![image](https://github.com/user-attachments/assets/9b5f9d0a-9102-449d-a352-d92c27d8d82b)
+
+After login the system checks the user if it has a business profile if it doesn’t have it will go this page to lets business owners set up their business profile by entering details like business name, type, description, email, phone, address, and uploading a logo. After filling out the form, they can click "Create Business Profile" to save their information.
+
+
+
+
+![image](https://github.com/user-attachments/assets/111f92dd-35d1-4117-bbe1-dca1a3552a31)
+![image](https://github.com/user-attachments/assets/e463653f-87a2-4c7f-bba6-15b876e1afa4)
+
+This page is the business owner’s dashboard on the Appointment Scheduler platform. It displays key stats such as total appointments, today’s appointments, total revenue, and completed appointments. The dashboard also shows the business hours for each day of the week, which are all set to "Closed." There is an option to edit business hours, and below, a section is provided for service usage analytics.
+
+
+
+![image](https://github.com/user-attachments/assets/aa2034fc-ffe2-4793-97ae-d752b1b94b52)
+![image](https://github.com/user-attachments/assets/b6f11b3b-34b3-42df-8758-4ca1172c413a)
+
+This page show a business hours setup page for an appointment scheduler. The interface allows to set opening and closing times for each day of the week, with the option to mark specific days as "Open" or "Closed.
+
+
+
+![image](https://github.com/user-attachments/assets/14ec008f-7e0b-4765-9988-8562a724754c)
+
+The updated dashboard provides a comprehensive overview for service provider, making management easier and more efficient. At the top, key metrics like total appointments, today’s appointments, total revenue, and completed appointments are clearly displayed, helping service provider track business performance. The business hours section allows quick edits, ensuring that operating times are always accurate.
+
+
+
+![image](https://github.com/user-attachments/assets/af9d4b50-200c-480e-87cd-5ab105d76097)
+![image](https://github.com/user-attachments/assets/8e05d722-022c-447b-9f07-42467a15ae8f)
+
+Visual infographics show service usage, appointment trends, and popular services, helping service provider identify which services are most in demand and spot busy days. The dashboard also lists today’s appointments with client details and statuses, allowing for smooth daily operations.
+
+
+
+
+![image](https://github.com/user-attachments/assets/0da8dd3d-d25b-4d10-b240-711367ec32d2)
+![image](https://github.com/user-attachments/assets/2b0f7fd6-ea88-42c4-9659-37b2a2d22b46)
+
+The image shows the appointments page from Dwayne Cosello's Appointment Scheduler system. This service provider -side interface displays a list of upcoming and past appointments in a well-organized table format with columns for Date & Time, Client, Service, Status, and a View option.
+
+
+
+![image](https://github.com/user-attachments/assets/3800c4a7-0b09-4319-9462-73407d43c7ec)
+![image](https://github.com/user-attachments/assets/a0593448-f934-4101-831c-bad3ea7d0c0a)
+
+The Appointment Details page provides a clear summary of a specific booking. It displays the customer’s name and email, the service booked, duration, price, and the scheduled date and time. Then it also has the button to Confirm the appointment or cancel it.
+
+
+
+![image](https://github.com/user-attachments/assets/c9aed129-386e-4048-a65a-c2baecbbc886)
+![image](https://github.com/user-attachments/assets/b9609362-ad66-4bac-9ea0-f95e40b52608)
+
+The Services page allows service provider to manage all offered services in one place. Each service is listed with its name, duration, price, and visibility status (either "Visible" or "Hidden"). service provider can easily edit or delete services as needed, or add new ones with the "Add New Service" button.
+
+
+
+![image](https://github.com/user-attachments/assets/8d394c87-7cc9-44b0-8f6a-aa7c253b2b0a)
+![image](https://github.com/user-attachments/assets/c70e40c7-7444-4707-a22f-85f6e4528023)
+
+This page lets service provider add a new service, like "Hair Extension," by entering its name, description, price, and duration. There’s also an option to make the service visible to clients for booking. 
+
+
+
+![image](https://github.com/user-attachments/assets/85bcd0e0-9dc3-4312-9558-a6a13871460d)
+![image](https://github.com/user-attachments/assets/4c40f73b-febd-4ab4-947e-5595c08d9f98)
+
+Service provider can edit business profile
+
+
+
+![image](https://github.com/user-attachments/assets/af4ca1a5-2212-46b9-9f71-96ae62bea640)
+![image](https://github.com/user-attachments/assets/5de9b149-8412-4a02-a9c7-0648ad2c4d99)
+![image](https://github.com/user-attachments/assets/3c96ef1e-ed46-4881-bba3-ce6c830aac6d)
+
+Shop owner can update their profile information by editing their name and email address, and saving the changes. The page also allows users to securely change their password by entering their current password and setting a new one. Additionally, there is an option to permanently delete the account, with a warning to download any important data before proceeding.
+
+
+
+MOBILE VIEW:
+
+CLIENT SIDE
+
+![image](https://github.com/user-attachments/assets/675a5c69-de9c-4833-a094-f28e2e6da820)
+![image](https://github.com/user-attachments/assets/00cc72c5-3d46-4fb1-8b38-65ed92247a1c)
+![image](https://github.com/user-attachments/assets/af631a87-ba14-4456-a073-b33cfb6c8100)
+![image](https://github.com/user-attachments/assets/0c0b23d1-819a-46aa-976b-99c6ccf3692e)
+![image](https://github.com/user-attachments/assets/d5af94bb-17f5-4398-879b-997cd0f5bd26)
+![image](https://github.com/user-attachments/assets/7496a43f-caee-4c3c-bbad-02eee5c4d464)
+
+
+
+SERVICE PROVIDER:
+
+![image](https://github.com/user-attachments/assets/e0bed9b1-bb51-4dab-bec7-dd8d66b04234)
+![image](https://github.com/user-attachments/assets/53cabcbf-8272-4670-aa08-a4684d065f6d)
+![image](https://github.com/user-attachments/assets/43d2fd33-ae7c-41fa-910b-9f93bfaa1697)
+![image](https://github.com/user-attachments/assets/bf99276b-f936-4ff9-9ca6-54dec29eb068)
+![image](https://github.com/user-attachments/assets/03409511-593b-41a7-859f-08ef9898aa2c)
+![image](https://github.com/user-attachments/assets/b64e4e22-0825-4c51-b56d-a8d80bbee979)
+![image](https://github.com/user-attachments/assets/cfa92074-a8ca-4d80-b6c9-845a3bf8dcc1)
+![image](https://github.com/user-attachments/assets/6f21c06d-9aad-45fa-81b0-401dae805953)
+![image](https://github.com/user-attachments/assets/cc54f356-6deb-4897-ad3b-aade630d5da7)
+![image](https://github.com/user-attachments/assets/f9524370-d91d-44b9-b652-dc06bc09d771)
+![image](https://github.com/user-attachments/assets/bf8fb96b-58cf-4983-9164-a1dabde8ae63)
+
+
+
+
+
+
+
 
 
 
