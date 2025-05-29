@@ -4,6 +4,7 @@ The Appointment Scheduler for Salons & Barbers is a comprehensive web-based sche
 
 To manage user registration, login, password resets, and email verification, the system uses Laravel Breeze, a lightweight starter kit that provides built-in authentication features using Blade templates and Tailwind CSS. Breeze ensures a secure and modular foundation for managing both client and service provider accounts, supporting features like email verification, profile management, and password reset functionality.
 
+
 Purpose and Benefits
 
 The core goal of the system is to:
@@ -13,6 +14,7 @@ The core goal of the system is to:
 •	Help service providers efficiently manage appointments, services, and business hours.
 
 •	Ensure seamless user experience with secure authentication and real-time features.
+
 
 User Types
 
@@ -25,6 +27,7 @@ o	Book and manage appointments
 o	View appointment history
 
 o	Edit their profile and change password
+
 
 2.	Service Providers (Salon/Barber Shop Owners) – Users who can:
    
