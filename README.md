@@ -7,24 +7,37 @@ To manage user registration, login, password resets, and email verification, the
 Purpose and Benefits
 
 The core goal of the system is to:
+
 •	Simplify the booking process for clients.
+
 •	Help service providers efficiently manage appointments, services, and business hours.
+
 •	Ensure seamless user experience with secure authentication and real-time features.
 
 User Types
 
 1.	Clients – Individuals who can:
+   
 o	Register/login securely
+
 o	Book and manage appointments
+
 o	View appointment history
+
 o	Edit their profile and change password
 
 2.	Service Providers (Salon/Barber Shop Owners) – Users who can:
+   
 o	Register/login securely
+
 o	Create and manage their business profile
+
 o	Set business hours
+
 o	Add/manage services
+
 o	View analytics on appointments and services
+
 o	Handle appointment confirmations or cancellations
 
 CLIENT SIDE
@@ -235,6 +248,7 @@ CLIENT SIDE
 ![image](https://github.com/user-attachments/assets/0c0b23d1-819a-46aa-976b-99c6ccf3692e)
 ![image](https://github.com/user-attachments/assets/d5af94bb-17f5-4398-879b-997cd0f5bd26)
 ![image](https://github.com/user-attachments/assets/7496a43f-caee-4c3c-bbad-02eee5c4d464)
+
 
 
 
