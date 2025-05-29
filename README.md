@@ -29,6 +29,7 @@ o	Handle appointment confirmations or cancellations
 
 
  
+ 
 
 CLIENT SIDE
 
@@ -522,4 +523,6 @@ CLIENT SIDE
 
 
 SERVICE PROVIDER:
+ 
+
  
