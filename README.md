@@ -1,5 +1,10 @@
 Appointment Scheduler
 
+GROUP MEMBERS:
+Lorraine Arquilla 
+Maureen Danzalan
+John Ray B. Yu
+
 The Appointment Scheduler for Salons & Barbers is a comprehensive web-based scheduling platform designed to streamline appointment booking and client management for salon and barbershop businesses. The system offers dual functionality—serving both clients and service providers—with intuitive dashboards, real-time appointment booking, service tracking, and profile customization features.
 
 To manage user registration, login, password resets, and email verification, the system uses Laravel Breeze, a lightweight starter kit that provides built-in authentication features using Blade templates and Tailwind CSS. Breeze ensures a secure and modular foundation for managing both client and service provider accounts, supporting features like email verification, profile management, and password reset functionality.
